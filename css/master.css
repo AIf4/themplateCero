@@ -1,0 +1,78 @@
+/* .carousel {
+    margin-bottom: 0;
+    padding: 0 40px 30px 40px;
+} */
+/* The controlsy */
+/* .carousel-control {
+	left: -12px;
+    height: 40px;
+	width: 40px;
+    background: none repeat scroll 0 0 #222222;
+    border: 4px solid #FFFFFF;
+    border-radius: 23px 23px 23px 23px;
+    margin-top: 90px;
+} */
+/* .carousel-control.right {
+	right: -12px;
+} */
+/* The indicators */
+/* .carousel-indicators {
+	right: 50%;
+	top: auto;
+	bottom: -10px;
+	margin-right: -19px;
+} */
+/* The colour of the indicators */
+/* .carousel-indicators li {
+	background: #cecece;
+} */
+/* .carousel-indicators .active {
+background: #428bca;
+} */
+
+
+footer{
+	position: relative;
+	height: 100px;
+	background-color:rgb(32, 98, 37);
+}
+
+footer a:link{
+	color: #ffffff;
+}
+footer a:visited{
+	color: #ffffff;
+}
+footer a:hover{
+	color: #07ac15;
+}
+
+.navbar-top{
+	background-color: #ffffff !important;
+}
+.navbar-top.scrolled span{
+	color: #ffffff !important;
+}
+.navbar-top a:link{
+	color: #ffffff;
+}
+
+.navbar-top.scrolled {
+	background-color: rgb(32, 98, 37) !important;
+	transition: background-color 200ms linear;
+}
+
+.navbar-top.scrolled .nav-link {
+	color:#ffffff;
+}
+.color-standard{
+	color: rgb(32, 98, 37) ;
+}
+
+.slider-smaller{
+	background-color: #f7f7f7;
+}
+.color-divs{
+	background-color: rgb(32, 98, 37);
+	color: #ffffff;
+}
